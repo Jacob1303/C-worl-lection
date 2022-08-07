@@ -1,0 +1,15 @@
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\Lec.2Ex.1.Array.csproj.AssemblyReference.cache
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\Lec.2Ex.1.Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\Lec.2Ex.1.Array.AssemblyInfoInputs.cache
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\Lec.2Ex.1.Array.AssemblyInfo.cs
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\Lec.2Ex.1.Array.csproj.CoreCompileInputs.cache
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\bin\Debug\net6.0\Lec.2Ex.1.Array.exe
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\bin\Debug\net6.0\Lec.2Ex.1.Array.deps.json
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\bin\Debug\net6.0\Lec.2Ex.1.Array.runtimeconfig.json
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\bin\Debug\net6.0\Lec.2Ex.1.Array.dll
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\bin\Debug\net6.0\Lec.2Ex.1.Array.pdb
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\Lec.2Ex.1.Array.dll
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\refint\Lec.2Ex.1.Array.dll
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\Lec.2Ex.1.Array.pdb
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\Lec.2Ex.1.Array.genruntimeconfig.cache
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.2Ex.1.Array\obj\Debug\net6.0\ref\Lec.2Ex.1.Array.dll
