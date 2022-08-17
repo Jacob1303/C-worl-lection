@@ -1,0 +1,15 @@
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\Lec.3.Exp1.csproj.AssemblyReference.cache
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\Lec.3.Exp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\Lec.3.Exp1.AssemblyInfoInputs.cache
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\Lec.3.Exp1.AssemblyInfo.cs
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\Lec.3.Exp1.csproj.CoreCompileInputs.cache
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\bin\Debug\net6.0\Lec.3.Exp1.exe
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\bin\Debug\net6.0\Lec.3.Exp1.deps.json
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\bin\Debug\net6.0\Lec.3.Exp1.runtimeconfig.json
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\bin\Debug\net6.0\Lec.3.Exp1.dll
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\bin\Debug\net6.0\Lec.3.Exp1.pdb
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\Lec.3.Exp1.dll
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\refint\Lec.3.Exp1.dll
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\Lec.3.Exp1.pdb
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\Lec.3.Exp1.genruntimeconfig.cache
+C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp1\obj\Debug\net6.0\ref\Lec.3.Exp1.dll
