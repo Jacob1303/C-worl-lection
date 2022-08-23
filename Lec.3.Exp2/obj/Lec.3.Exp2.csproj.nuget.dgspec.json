@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79777\\Desktop\\Geekbrains\\C#\\Lec.3.Exp2\\Lec.3.Exp2.csproj": {}
+    "C:\\Users\\79777\\Desktop\\Geekbrains\\C Shapr. All course\\C#\\Lec.3.Exp2\\Lec.3.Exp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79777\\Desktop\\Geekbrains\\C#\\Lec.3.Exp2\\Lec.3.Exp2.csproj": {
+    "C:\\Users\\79777\\Desktop\\Geekbrains\\C Shapr. All course\\C#\\Lec.3.Exp2\\Lec.3.Exp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79777\\Desktop\\Geekbrains\\C#\\Lec.3.Exp2\\Lec.3.Exp2.csproj",
+        "projectUniqueName": "C:\\Users\\79777\\Desktop\\Geekbrains\\C Shapr. All course\\C#\\Lec.3.Exp2\\Lec.3.Exp2.csproj",
         "projectName": "Lec.3.Exp2",
-        "projectPath": "C:\\Users\\79777\\Desktop\\Geekbrains\\C#\\Lec.3.Exp2\\Lec.3.Exp2.csproj",
+        "projectPath": "C:\\Users\\79777\\Desktop\\Geekbrains\\C Shapr. All course\\C#\\Lec.3.Exp2\\Lec.3.Exp2.csproj",
         "packagesPath": "C:\\Users\\79777\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79777\\Desktop\\Geekbrains\\C#\\Lec.3.Exp2\\obj\\",
+        "outputPath": "C:\\Users\\79777\\Desktop\\Geekbrains\\C Shapr. All course\\C#\\Lec.3.Exp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79777\\AppData\\Roaming\\NuGet\\NuGet.Config"

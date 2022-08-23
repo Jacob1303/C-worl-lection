@@ -13,3 +13,18 @@ C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp2\obj\Debug\net6.0\refint\Lec.3.Ex
 C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.pdb
 C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.genruntimeconfig.cache
 C:\Users\79777\Desktop\Geekbrains\C#\Lec.3.Exp2\obj\Debug\net6.0\ref\Lec.3.Exp2.dll
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\bin\Debug\net6.0\Lec.3.Exp2.exe
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\bin\Debug\net6.0\Lec.3.Exp2.deps.json
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\bin\Debug\net6.0\Lec.3.Exp2.runtimeconfig.json
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\bin\Debug\net6.0\Lec.3.Exp2.dll
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\bin\Debug\net6.0\Lec.3.Exp2.pdb
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.csproj.AssemblyReference.cache
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.AssemblyInfoInputs.cache
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.AssemblyInfo.cs
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.csproj.CoreCompileInputs.cache
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.dll
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\refint\Lec.3.Exp2.dll
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.pdb
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\Lec.3.Exp2.genruntimeconfig.cache
+C:\Users\79777\Desktop\Geekbrains\C Shapr. All course\C#\Lec.3.Exp2\obj\Debug\net6.0\ref\Lec.3.Exp2.dll
